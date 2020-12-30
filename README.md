@@ -5,7 +5,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop web applications.\
-🎓 &nbsp;I'm currently studying Computer Science Engineering at the University School of Information, Communication and Technology.\
+🎓 &nbsp;I'm currently pursuing my Btech degree in Computer Science Engineering from University School of Information, Communication and Technology.\
 🌱 &nbsp;I'm on track for learning more about API development and programming tools.\
 ✍️ &nbsp;In my free time, I read books. ( Currently Python: Tips and Tricks is on my plate).\
 💬 &nbsp;Feel free to reach out to me for project collaboration in computer vision or web development.\
