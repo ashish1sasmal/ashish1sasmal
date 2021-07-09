@@ -10,7 +10,7 @@
 ✍️ &nbsp;In my free time, I read books. ( Currently Python: Tips and Tricks is on my plate).\
 💬 &nbsp;Feel free to reach out to me for project collaboration in computer vision or web development.\
 ✉️ &nbsp;You can shoot me an email at ashishsasmal1@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1JsG7g_91cXjblTGQ_TwG1ASbVuwojznU/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/12wxAZIHLCZfRpWAK2-6hkFpcAo6PRl9v/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding"  src="https://github.com/ashish1sasmal/ashish1sasmal/blob/main/Night-Coding.gif" align="right"/>
 
