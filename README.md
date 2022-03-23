@@ -6,9 +6,6 @@
 
 💡 &nbsp;I like to explore new technologies and develop web applications.\
 🎓 &nbsp;I'm currently pursuing my B.Tech in Computer Science Engineering from University School of Information, Communication and Technology.\
-🌱 &nbsp;I'm on track for learning more about API development and programming tools.\
-✍️ &nbsp;In my free time, I read books. ( Currently Python: Tips and Tricks is on my plate).\
-💬 &nbsp;Feel free to reach out to me for project collaboration in computer vision or web development.\
 ✉️ &nbsp;You can shoot me an email at ashishsasmal1@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1kD7oN5y9sLnsh5t_AfxgI6FXZRy5Mw2N/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 
