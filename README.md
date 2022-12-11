@@ -7,7 +7,7 @@
 💡 &nbsp;I like to explore new technologies and develop web applications.\
 🎓 &nbsp;I'm currently pursuing my B.Tech in Computer Science Engineering from University School of Information, Communication and Technology.\
 ✉️ &nbsp;You can shoot me an email at ashishsasmal1@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1kD7oN5y9sLnsh5t_AfxgI6FXZRy5Mw2N/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1AZK0SC8NsvmqxBkm98ixg0tSRq1ZUga9/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding"  src="https://github.com/ashish1sasmal/ashish1sasmal/blob/main/Night-Coding.gif" align="right"/>
 
